@@ -1,0 +1,5 @@
+x=int(input("Enter no. one"))
+y=int(input("enter no. two"))
+print("no.1 + no.2 =", x+y)
+print("no.1 - no.2 =", x-y)
+print("no.1 * no.2 =", x*y)
